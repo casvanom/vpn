@@ -1,1 +1,6 @@
 youtube.com
+cloud.microsoft
+sharepoint.com
+onedrive.com
+live.com
+1drv.com
