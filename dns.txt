@@ -3,3 +3,10 @@ cloud.microsoft
 sharepoint.com
 onedrive.com
 live.com
+primevideo.com
+amazonvideo.com
+pv-cdn.net
+aiv-cdn.net
+aiv-delivery.net
+video.a2z.com
+media-amazon.com
